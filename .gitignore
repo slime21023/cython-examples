@@ -1,0 +1,5 @@
+src/*.c
+src/*.so
+.pytest_cache
+__pycache__
+build
