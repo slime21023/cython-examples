@@ -1,5 +1,7 @@
-src/*.c
-src/*.so
+*/src/*.c
+*/src/*.so
+*/src/*.pyd
 .pytest_cache
 __pycache__
-build
+*/build
+*/*.pyd

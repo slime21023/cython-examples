@@ -5,6 +5,9 @@ def primes(int nb_primes):
     if nb_primes > 1000:
         nb_primes = 1000
 
+
+
+
     len_p = 0  # The current number of elements in p.
     n = 2
     while len_p < nb_primes:
