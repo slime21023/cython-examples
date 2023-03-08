@@ -6,3 +6,4 @@ __pycache__
 */build
 */*.pyd
 cpp_shape/src/rect.cpp
+*/.ipynb_*
